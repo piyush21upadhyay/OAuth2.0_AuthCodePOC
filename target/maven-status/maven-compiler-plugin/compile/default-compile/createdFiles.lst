@@ -1,0 +1,4 @@
+com\ibm\oauth\OAuth2Client.class
+com\ibm\oauth\OAuthUtils.class
+com\ibm\oauth\OAuth2Details.class
+com\ibm\oauth\OAuthConstants.class
